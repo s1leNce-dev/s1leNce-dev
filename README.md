@@ -1,5 +1,3 @@
-https://www.codewars.com/users/grisak4/badges/large
-
 ## Hi there 👋
 
 I'm passionate about building reliable systems, learning programming, and developing my own software solutions. 
